@@ -39,7 +39,6 @@
 - Real-time token pricing using RPC oracles.
 
 ### ⚡ Transaction Execution
-- Send SOL or tokens with precision and speed.
 - Simulate before you commit (coming soon).
 
 ### 🧙‍♂️ Agent Modes
@@ -121,11 +120,6 @@ Feel like upgrading the agent?
 Logs are open.
 
 ---
-
-## 🧿 License
-
-MIT © 2025 VEX Team
-
 ---
 
 ## 🔗 GitHub Repo
