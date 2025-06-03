@@ -4,7 +4,6 @@
 > Built for builders who don’t ask permission.
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/github/license/vex-ai/vex-ai)
 ![Stars](https://img.shields.io/github/stars/vex-ai/vex-ai?style=social)
 ![Powered By](https://img.shields.io/badge/powered%20by-OpenAI-ff69b4)
 
