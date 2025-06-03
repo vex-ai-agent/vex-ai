@@ -12,7 +12,8 @@
 
 ## 🎬 VEX in Action
 
-![VEX Demo](./demo/vex-demo.gif)
+![VEX Demo](vex-demo.gif)
+
 
 ---
 
