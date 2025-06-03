@@ -125,4 +125,4 @@ Logs are open.
 
 ## 🔗 GitHub Repo
 
-[https://github.com/vex-ai/vex-ai](https://github.com/vex-ai/vex-ai)
+[https://github.com/vex-ai-agent/vex-ai](https://github.com/vex-ai-agent/vex-ai)
